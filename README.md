@@ -1,6 +1,11 @@
 ## Welcome to GitHub Pages
 
+
 I think that a Lorem Ipsum should be nice here!!!
+
+I think that a Lorem Ipsum should be nice here again!!!
+
+
 
 You can use the [editor on GitHub](https://github.com/Pear0013/coursera3/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
